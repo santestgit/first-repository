@@ -1,9 +1,13 @@
 Adding new lines.
 Adding second line.
 Adding third line.
+<<<<<<< HEAD
 Adding fourth line.
 Adding fifth linei.
 adding sixth line.
 adding seventh line-7
 adding eight line-8
 
+=======
+Removed Lines.
+>>>>>>> e9d6c05fb820ccca3f60f8aae3d78584f587ff9e
